@@ -15,11 +15,11 @@ Clone this repository from GitHub. Download Node.js if not previously downloaded
 
 ## Walk-through
 
-walkthrough.mp4
+
 
 ## Tests
 
-tests.mp4
+
 
 ## Thanks :)
 
